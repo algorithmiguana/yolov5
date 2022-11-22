@@ -1,0 +1,4 @@
+train: D:/Git Projects/object_detection/yolov5/cars-object-detection/DATA/DATA/train/
+val: D:/Git Projects/object_detection/yolov5/cars-object-detection/DATA/DATA/test/
+nc: 1
+names: ['car']
